@@ -1,5 +1,5 @@
 boom = input("write any character: ")
-if boom == 'A':
+if boom == 'a':
     print("alphabet")
 elif boom == 'b':
     print("alphabet")
